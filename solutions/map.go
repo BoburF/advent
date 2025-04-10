@@ -12,4 +12,5 @@ func Init() {
 	SolutionsMap["2015-5"] = solutions_2015.Solution20155
 	SolutionsMap["2015-6"] = solutions_2015.Solution20156
 	SolutionsMap["2015-7"] = solutions_2015.Solution20157
+	SolutionsMap["2015-8"] = solutions_2015.Solution20158
 }
